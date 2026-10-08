@@ -1,0 +1,57 @@
+# Folder cache'u i pliki tymczasowe
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Zrzuty pamięci i nagrania (mogą ważyć gigabajty)
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Pliki wygenerowane przez Visual Studio / Rider / środowiska IDE
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Pliki meta wygenerowane dla plików, których i tak nie wersjonujemy
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Raporty z crashy
+sysinfo.txt
+crashlytics-build.properties
+
+# Skompilowane buildy gry (paczki)
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Pliki systemowe (Windows / macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
